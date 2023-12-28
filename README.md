@@ -1,34 +1,41 @@
-# Project Name
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text eve
+# Getting Started with C Programming
 
+Hey there! 🚀 I'm Marcos and I made this repository for starting into the world of C programming. 
+
+It will have little programs, simple scripts and some concepts for better understanding. 
+
+My guide will be Nelio Alves course in Udemy: [Algoritmos e Lógica de Programação 2023 - O Curso COMPLETO](https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/)
 ### Developers: 
 * [Marcos Vinicius Ferreira](https://github.com/marcosnaofazisso) 
 
-## Goals and Rules:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+## Table of Contents
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1. [Introduction](#introduction)
+2. [Prerequisites](#prerequisites)
+3. [Setting Up Your Environment](#setting-up-your-environment)
+4. [Writing Your First C Program](#writing-your-first-c-program)
+5. [Compiling and Running](#compiling-and-running)
+6. [Next Steps](#next-steps)
 
-# Demo
-<img src="./demo/boromir.jpg" height="200" width="400">
+## Introduction
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+C is a powerful and versatile programming language that forms the foundation for many others. It's widely used in systems programming, game development, and embedded systems. Let's dive in!
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Prerequisites
 
-# Tutorial
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Before you start, make sure you have the following installed:
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+- [GCC](https://gcc.gnu.org/): The GNU Compiler Collection
+- A text editor of your choice (e.g., [Visual Studio Code](https://code.visualstudio.com/), [Sublime Text](https://www.sublimetext.com/), or [Atom](https://atom.io/))
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+## Setting Up Your Environment
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Ensure that GCC is installed by running:
 
-    code 
-    code  
-    code
+```bash
+gcc --version
+```
 
 
 ## Thank you!
